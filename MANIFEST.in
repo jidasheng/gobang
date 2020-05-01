@@ -1,0 +1,2 @@
+recursive-include gobang/res *
+recursive-include gobang/data *
